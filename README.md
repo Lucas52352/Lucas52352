@@ -1,6 +1,6 @@
 <img src="https://www.canva.com/design/DAFlQmKscws/view?embed"/>
 
-<h1 align="center">Hi 👋, I'm Lucas</h1>
+<h1 align="center">Hi, I'm Lucas</h1>
 <h3 align="center">A FullStack Developer from Argentina!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucas52352&label=Profile%20views&color=813d9c&style=plastic" alt="lucas52352" /> </p>
