@@ -1,6 +1,6 @@
-<img align="center"
-![FULLSTACK DEVELOPER](https://github.com/Lucas52352/Lucas52352/assets/110744072/24343673-4977-4c92-a40b-b3d1651c2169)
-/>
+
+   .                               ![FULLSTACK DEVELOPER](https://github.com/Lucas52352/Lucas52352/assets/110744072/24343673-4977-4c92-a40b-b3d1651c2169)
+
 
 <h1 align="center">Hi, I'm Lucas</h1>
 <h3 align="center">A FullStack Developer from Argentina!</h3>
