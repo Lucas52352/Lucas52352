@@ -1,6 +1,4 @@
-
-[Diseño sin título.pdf](https://github.com/Lucas52352/Lucas52352/files/11691993/Diseno.sin.titulo.pdf)
-
+![WhatsApp Image 2023-06-08 at 15 49 23](https://github.com/Lucas52352/Lucas52352/assets/110744072/e4e4325c-e3c0-469e-ab85-969370bbba00)
 
 <h1 align="center">Hi, I'm Lucas</h1>
 <h3 align="center">A FullStack Developer from Argentina!</h3>
