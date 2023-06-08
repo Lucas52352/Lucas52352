@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **lucasrius86@gmail.com**
 
-- Fun Fact: **I love linear-gradient backgrounds**
+- Fun Fact: **I love linear-gradient backgrounds and cooking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
