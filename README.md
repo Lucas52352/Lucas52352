@@ -1,4 +1,4 @@
-<img src="https://w7.pngwing.com/pngs/1003/487/png-transparent-github-pages-random-icons-white-logo-monochrome-thumbnail.png" alt="png"/>
+<img src="file:///home/lucas/Downloads/FULLSTACK%20DEVELOPER(1).png" alt="png"/>
 
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">A FullStack Developer from Argentina!</h3>
