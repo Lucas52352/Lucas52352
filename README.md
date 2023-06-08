@@ -1,4 +1,4 @@
-<img src="file:///home/lucas/Downloads/FULLSTACK%20DEVELOPER(1).png" alt="png"/>
+<img src="https://www.canva.com/design/DAFlQmKscws/_g1YxDlQl9bUiaebZYBCkQ/view?utm_content=DAFlQmKscws&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" alt="png"/>
 
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">A FullStack Developer from Argentina!</h3>
