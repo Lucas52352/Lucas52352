@@ -7,7 +7,7 @@
 
 - I´m currently working on **Pokemon App**
 
-- I´m currently learning **AWS, Typescript, NEST.JS and React Native**
+- I´m currently learning **AWS, Typescript and React Native**
 
 - I´m looking to collaborate on **Final Project from SoyHenry Bootcamp**
 
