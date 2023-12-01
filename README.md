@@ -5,9 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucas52352&label=Profile%20views&color=813d9c&style=plastic" alt="lucas52352" /> </p>
 
-- I´m currently working on **Personal Projects**
-
-- I´m currently learning **Java**
+- I´m currently learning **C# for Game Development**
 
 - I´m looking to collaborate on a project where I can grow.
 
