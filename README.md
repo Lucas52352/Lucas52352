@@ -5,15 +5,72 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucas52352&label=Profile%20views&color=813d9c&style=plastic" alt="lucas52352" /> </p>
 
-- I´m currently studying programming technology in Universidad Tecnologica Nacional(UTN). 
+🇬🇧 English
 
-- I´m looking to collaborate on a project where I can grow.
+Full Stack Developer based in Córdoba, Argentina. Currently pursuing a University Technical Degree in Programming at UTN-FRC.
 
+Passionate about software development, problem solving, and building interactive applications. Focused on backend development, system design, and algorithmic thinking, with hands-on experience in full-stack applications.
+
+🔑 Key Experience
+- Backend development with Java & Spring Boot (REST APIs, game logic, state management)
+- Frontend development using Angular and TypeScript
+- Object-Oriented Design and clean architecture for scalable applications
+- Full-stack application development (Java + Angular)
+
+🛠️ Technical Skills
+- Backend: Java (Spring Boot), REST APIs
+- Frontend: Angular, TypeScript, JavaScript
+- Programming: Object-Oriented Programming (OOP), Data Structures, Algorithms
+- Databases: H2, MySql
+- Tools & DevOps: Git, Docker, AWS
+- Methodologies: Agile, Scrum
+
+🎓 Education
+Universidad Tecnológica Nacional (UTN) - Córdoba  
+University Technical Degree in Programming (Feb 2024 – Present)
+
+🌟 Skills Overview
+- Frontend: Angular, TypeScript
+- Backend: Java, Spring Boot, REST APIs
+- Programming: OOP, Algorithms, Data Structures
+- Languages: Spanish (Native), English (B2 - Advanced)
+
+---
+
+🇪🇸 Español
+
+Desarrollador Full Stack radicado en Córdoba, Argentina. Estudiante de la Tecnicatura Universitaria en Programación en UTN-FRC.
+
+Apasionado por el desarrollo de software, la resolución de problemas y la creación de aplicaciones interactivas. Enfocado en backend, diseño de sistemas y pensamiento algorítmico, con experiencia en desarrollo de juegos y aplicaciones full stack.
+
+🔑 Experiencia Clave
+- Desarrollo backend con Java y Spring Boot (APIs REST, lógica de juego, manejo de estados)
+- Desarrollo frontend con Angular y TypeScript
+- Diseño orientado a objetos y arquitectura limpia
+- Desarrollo de aplicaciones full stack
+
+🛠️ Conocimientos Técnicos
+- Backend: Java (Spring Boot), APIs REST
+- Frontend: Angular, TypeScript, JavaScript
+- Programación: POO, Estructuras de Datos, Algoritmos
+- Bases de Datos: H2, MySql
+- Herramientas: Git, Docker, AWS
+- Metodologías: Agile, Scrum
+
+🎓 Educación
+Universidad Tecnológica Nacional (UTN) - Córdoba  
+Tecnicatura Universitaria en Programación (Feb 2024 – Actualidad)
+
+🌟 Resumen de Skills
+- Frontend: Angular, TypeScript
+- Backend: Java, Spring Boot
+- Programación: POO, Algoritmos, Estructuras de Datos
+- Idiomas: Español (Nativo), Inglés (B2)
 - 📫 How to reach me **lucasrius86@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lucas-rius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-rius" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lucas-rius" target="blank"><p>LinkedIn</p></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
