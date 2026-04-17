@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucas52352&label=Profile%20views&color=813d9c&style=plastic" alt="lucas52352" /> </p>
 
-🇬🇧 English
-
 Full Stack Developer based in Córdoba, Argentina. Currently pursuing a University Technical Degree in Programming at UTN-FRC.
 
 Passionate about software development, problem solving, and building interactive applications. Focused on backend development, system design, and algorithmic thinking, with hands-on experience in full-stack applications.
@@ -36,8 +34,6 @@ University Technical Degree in Programming (Feb 2024 – Present)
 - Languages: Spanish (Native), English (B2 - Advanced)
 
 ---
-
-🇪🇸 Español
 
 Desarrollador Full Stack radicado en Córdoba, Argentina. Estudiante de la Tecnicatura Universitaria en Programación en UTN-FRC.
 
